@@ -27,8 +27,8 @@ Gem::Specification.new do |spec|
   spec.add_dependency "rails", "~> 6.0.0.rc2"
 
   # Theme Dependencies
-  spec.add_dependency "phcthemes_admin_panel_pack", "~> 0.27.0"
-  spec.add_dependency "phcthemes_web_theme_pack", "~> 0.14.0"
+  spec.add_dependency "phcthemes_admin_panel_pack", "~> 0.29.0"
+  spec.add_dependency "phcthemes_web_theme_pack", "~> 0.15.0"
 
   # Development Dependencies
   spec.add_development_dependency "sqlite3", "~> 1.4", ">= 1.4.1"

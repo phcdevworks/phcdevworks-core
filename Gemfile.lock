@@ -1,9 +1,9 @@
 PATH
   remote: .
   specs:
-    phcdevworks_core (0.1.0)
-      phcthemes_admin_panel_pack (~> 0.27.0)
-      phcthemes_web_theme_pack (~> 0.14.0)
+    phcdevworks_core (0.3.0)
+      phcthemes_admin_panel_pack (~> 0.29.0)
+      phcthemes_web_theme_pack (~> 0.15.0)
       rails (~> 6.0.0.rc2)
 
 GEM
@@ -103,7 +103,7 @@ GEM
     nio4r (2.4.0)
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
-    phcthemes_admin_panel_pack (0.27.0)
+    phcthemes_admin_panel_pack (0.29.0)
       coffee-rails (~> 5.0)
       gravtastic (~> 3.2)
       jquery-rails (~> 4.3)
@@ -112,7 +112,7 @@ GEM
       sassc-rails (~> 2.1)
       turbolinks (~> 5.2)
       uglifier (~> 4.1)
-    phcthemes_web_theme_pack (0.14.0)
+    phcthemes_web_theme_pack (0.15.0)
       coffee-rails (~> 5.0)
       gravtastic (~> 3.2)
       jquery-rails (~> 4.3)
@@ -142,7 +142,7 @@ GEM
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
-    rails-html-sanitizer (1.0.4)
+    rails-html-sanitizer (1.1.0)
       loofah (~> 2.2, >= 2.2.2)
     railties (6.0.0.rc2)
       actionpack (= 6.0.0.rc2)
